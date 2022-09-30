@@ -3,8 +3,8 @@ Arquivos do Curso de PHP do Curso em Vídeo
 ![PHP](../img_php.jpg 'PHP') <br>
 
 ================================== <br>
-SEJA BEM-VINDO AO CURSOEMVIDEO.COM
-Cursos GRATIS feitos com QUALIDADE
+SEJA BEM-VINDO AO CURSOEMVIDEO.COM <br>
+Cursos GRATIS feitos com QUALIDADE <br>
 ================================== <br>
 Essa aula faz parte de um pacote do Curso de PHP, criado pelo Prof. Gustavo Guanabara. 
 
