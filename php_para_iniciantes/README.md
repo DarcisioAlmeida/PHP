@@ -1,11 +1,11 @@
 # Curso de PHP
 Arquivos do Curso de PHP do Curso em Vídeo
-![PHP](./img_php.jpg 'PHP') <br>
+![PHP](../img_php.jpg 'PHP') <br>
 
-==================================
+================================== <br>
 SEJA BEM-VINDO AO CURSOEMVIDEO.COM
 Cursos GRATIS feitos com QUALIDADE
-==================================
+================================== <br>
 Essa aula faz parte de um pacote do Curso de PHP, criado pelo Prof. Gustavo Guanabara. 
 
 A chave para o bom aprendizado e sempre a PRATICA, então pratique muito e não deixe de acompanhar todas as aulas disponíveis no site abaixo:
